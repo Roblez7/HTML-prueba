@@ -1,14 +1,13 @@
 body {
 
-background-image:  url("/images\ \(2\).jpg")
-
-
+background-image: url("/images\ \(2\).jpg");
+background-repeat: no-repeat;
 
 }
 
 h1 {
-    color: beige;
+    color: rgb(79, 81, 190);
 }
  h2 {
-    color: blueviolet;
+    color: rgb(164, 117, 207);
  }
